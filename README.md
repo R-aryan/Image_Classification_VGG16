@@ -1,6 +1,6 @@
 # Image Classification Using VGG16
 
-One of the basic image classification problems (i.e Cat VS Dogs Classification problem ) I did by implementing VGG16 Network from scratch.
+One of the basic image classification problems (i.e Cat VS Dogs Classification problem ) I did by implementing VGG16 Network from scratch as well as using transfer learning.
 
 For detailed explanation regarding VGG16 Click below
 
